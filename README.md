@@ -1,0 +1,1 @@
+Logistik Regresyon modelimiz, seçilen özelliklerle (Glukoz, BMI, Yaş) eğitildi ve Glukoz seviyesi 110, BMI 26 ve Yaş 24 olan bir hastanın diyabet olmadığı sonucuna ulaştı. Bu, modelin 0 olarak verdiği tahminle belirtilmiştir.
